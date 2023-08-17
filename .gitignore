@@ -1,0 +1,8 @@
+# Ignore virtual environment files (if you're using one)
+venv/
+# Ignore Django migration files
+/multiplication_table_app/migrations/
+# Ignore other generated files
+*.pyc
+*.pyo
+__pycache__/
